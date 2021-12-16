@@ -6,7 +6,7 @@ Talking about the system, it contains various functions which include Account St
 Here, at first the user has to enter an existing username, when the username matches the system proceed toward the next procedure i.e asking pin number. When a user passes all these sign-in procedures, he/she can use all those features. 
 It is too easy to use, he/she can check their respective account statements.
 
-Features
+# Features
 1.Withdraw
 2.Book Entry
 3.Change pin
